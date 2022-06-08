@@ -1,0 +1,35 @@
+@font-face {
+	font-family: "Archivo";
+	src: url("source/Archivo.ttf");
+}
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+	background-color: white!important;
+}
+
+
+.container-fluid {
+	text-align: center;
+	font-family: "Archivo", Arial, sans-serif;
+	background-color: white!important;
+}
+
+
+
+
+#navigation {
+	background-color: white!important;
+	font-family: "Archivo", Arial, sans-serif;
+}
+
+
+#navigation ul li a {
+    font-size: 20px;
+}
+
+#navigation a img {
+    padding: 5px;
+    margin: 10px;
+}
